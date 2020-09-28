@@ -1,2 +1,2 @@
-# geogsmeinung.github.io
+# georgsmeinung.github.io
 Jorge Nicolau's Home Page

@@ -1,6 +1,8 @@
 @import url("fontawesome-all.min.css");
+/*
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
-
+*/
+@import url("https://fonts.googleapis.com/css?family=Gothic+A1");
 /*
 	Landed by HTML5 UP
 	html5up.net | @ajlkn
@@ -99,7 +101,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Roboto", Helvetica, sans-serif;
+		font-family: "Gothic A1",""Roboto", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
 		line-height: 1.75em;

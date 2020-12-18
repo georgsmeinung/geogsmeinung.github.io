@@ -18,11 +18,10 @@ you can use for pretty much whatever.
 
 (* = Not included)
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Feedback, bug reports, and comments are not only welcome, but strongly encouraged:
 
-  AJ
-  aj@lkn.io | @ajlkn
-
+    AJ
+    aj@lkn.io | @ajlkn
 
 Credits:
 
